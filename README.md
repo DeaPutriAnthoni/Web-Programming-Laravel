@@ -3,7 +3,7 @@
 Welcome to the repository for my **Web Programming (Pemrograman Web)** coursework project. This application was developed as part of my studies in building full-stack web applications using modern web technologies.
 
 > Author: **Dea Putri Anthoni**  
-> University: Informatics, Class B of 2022
+> Informatics, Class B of 2022
 
 ---
 
